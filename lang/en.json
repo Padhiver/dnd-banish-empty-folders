@@ -1,0 +1,7 @@
+{
+  "BEFSettingsEnableHidingName": "Enable Empty Folders Hiding",
+  "BEFSettingsEnableHidingHint": "Automatically hides compendium folders that don't contain any compendium.",
+  "BEFSettingsHideSRDCompendiumName": "Hide SRD Compendium",
+  "BEFSettingsHideSRDCompendiumHint": "Hides folders containing D&D SRD content and DRS D&D content.",
+  "BEFFoldersSRDContent": "D&D SRD Content"
+}
