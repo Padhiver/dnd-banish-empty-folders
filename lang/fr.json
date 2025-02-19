@@ -2,6 +2,6 @@
     "BEFSettingsEnableHidingName": "Activer le masquage des dossiers vides",
     "BEFSettingsEnableHidingHint": "Cache automatiquement les dossiers de compendium qui ne contiennent aucun compendium.",
     "BEFSettingsHideSRDCompendiumName": "Cacher le compendium SRD",
-    "BEFSettingsHideSRDCompendiumHint": "Masque les dossiers contenant les compendiums du SRD D&D et DRS D&D.",
+    "BEFSettingsHideSRDCompendiumHint": "Masque les compendiums du DRS D&D.",
     "BEFFoldersSRDContent": "Contenu DRS D&D"
   }
