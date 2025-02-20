@@ -35,7 +35,7 @@
         }
     ],
     "esmodules": [
-      "./scripts/banishment-v12.js"
+      "./scripts/banishment.js"
   ],
   "styles": [],
   "manifest": "https://github.com/Padhiver/dnd-banish-empty-folders/releases/latest/download/module.json",
